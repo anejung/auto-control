@@ -2,6 +2,8 @@
 
 final project for **2103104 Automatic Control I**, detailing the design and real-time implementation of a **Proportional-Integral-Derivative (PID) Controller** for a DC motor using an **Arduino microcontroller**.
 
+for in class workshop [PID Controller video](https://youtu.be/Waq14X2n_es?si=nioYiP01gSuHmFpE).
+
 ---
 
 ### **Project Goals**
